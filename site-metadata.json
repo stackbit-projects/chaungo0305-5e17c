@@ -28,7 +28,7 @@
                 "style": "link"
             },
             {
-                "label": "Example",
+                "label": "exampleNav",
                 "url": "example",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
