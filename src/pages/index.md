@@ -8,9 +8,6 @@ intro_content: |+
   > Sample quote 
 
 intro_actions:
-  - label: Learn More
-    url: /about
-    style: primary
   - label: lorem-ipsum
     url: lorem-ipsum
     style: link
