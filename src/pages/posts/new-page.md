@@ -1,5 +1,5 @@
 ---
-title: What Is Photography and What It Means To Me
+title: "\bNew page"
 subtitle: A intresting tale about Photography and me
 date: '2018-01-15'
 excerpt: >-
