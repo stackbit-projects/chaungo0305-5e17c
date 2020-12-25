@@ -1,6 +1,6 @@
 ---
 title: Test page 123
-subtitle: lorem-ipsum
+subtitle: lorem-ipsuam
 excerpt: lorem-ipsum
 template: page
 ---
