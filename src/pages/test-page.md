@@ -4,9 +4,7 @@ subtitle: subtittle test
 excerpt: 'hellooooo '
 template: page
 ---
-## Lorem ipsum
+Content test   
+Hello  I am testing 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+ahhjahsjakhska
