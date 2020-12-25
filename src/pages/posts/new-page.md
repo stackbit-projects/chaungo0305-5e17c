@@ -9,7 +9,7 @@ excerpt: >-
   such as photographic film.
 template: post
 thumb_img_path: images/8.jpg
-content_img_path: images/8.jpg
+content_img_path: images/sky bridge.jpg
 ---
 
 **Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
