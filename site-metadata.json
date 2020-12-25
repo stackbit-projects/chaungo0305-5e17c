@@ -16,14 +16,6 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "exampleNav",
-                "url": "example",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ]
     },
