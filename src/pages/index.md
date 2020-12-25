@@ -14,7 +14,7 @@ intro_actions:
     icon_class: lorem-ipsum
     new_window: false
     type: action
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 template: home
 ---
