@@ -13,7 +13,7 @@ intro_actions:
     style: primary
   - label: lorem-ipsum
     url: lorem-ipsum
-    style: icon
+    style: link
     icon_class: lorem-ipsum
     new_window: false
     type: action
