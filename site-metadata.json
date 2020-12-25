@@ -19,7 +19,7 @@
             },
             {
                 "label": "test",
-                "url": "lorem-ipsum",
+                "url": "Test page ",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
