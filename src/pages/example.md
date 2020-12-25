@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: example-saved-2
 subtitle: example-saved
 excerpt: example page
 template: page
