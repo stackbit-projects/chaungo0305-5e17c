@@ -5,7 +5,7 @@
     "header": {
         "title": "Chau Ngo",
         "logo_img": "images/14.jpg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
