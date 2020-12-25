@@ -8,7 +8,7 @@ excerpt: >-
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 template: post
-thumb_img_path: images/8.jpg
+thumb_img_path: images/soulmate.jpg
 content_img_path: images/sky bridge.jpg
 ---
 
